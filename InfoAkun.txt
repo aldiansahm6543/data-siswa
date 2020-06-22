@@ -1,0 +1,11 @@
+admin 
+username : admin
+pw : admin
+
+guru
+username : 35544276868
+pw : guru
+
+siswa
+username : 00812378742
+pw : siswa
